@@ -17,18 +17,17 @@
 
 <br>
 
-## About Me
 
-```txt
-✦ Building where data, design, and technology meet.
-✦ Interested in analytics, visualization, and human-centered design.
-✦ Exploring AI, machine learning, and interactive web experiences.
+## 🌱 About Me
+
+✦ Building where **data, design, and technology** meet.  
+✦ Interested in **analytics, visualization, and human-centered design**.  
+✦ Exploring **AI, machine learning, and interactive web experiences**.  
 ✦ Always learning, always creating.
-```
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
@@ -41,7 +40,7 @@
 
 <br>
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sherivicmae&theme=duskfox&hide_border=true"/>
@@ -49,7 +48,7 @@
 
 <br>
 
-## Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://github.com/sherivicmae"><img src="https://img.shields.io/badge/GitHub-sherivicmae-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
