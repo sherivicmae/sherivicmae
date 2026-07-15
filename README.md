@@ -38,13 +38,9 @@
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sherivicmae&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherivicmae&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sherivicmae&theme=duskfox&hide_border=true"/>
+</p>
 
 <br>
 
