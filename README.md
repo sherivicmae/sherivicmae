@@ -1,6 +1,6 @@
 <div align="center">
 
-# こんにちは世界。>ᴗ< ♡
+# hello, world. ⋆𐙚₊˚⊹♡
 
 ### Sherivic Mae Dimagculang
 
