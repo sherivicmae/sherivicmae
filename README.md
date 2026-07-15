@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to my digital workspace ✦
+# ⋆｡°✩ Welcome to my digital workspace ✩°｡⋆
 
 ### Sherivic Mae Dimagculang
 
