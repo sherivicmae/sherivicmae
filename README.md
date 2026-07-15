@@ -30,9 +30,11 @@
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,tailwind,mysql,git,github,vscode" />
-</p>
+### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+
+### Data Analytics & AI ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn) 
+
+### Frontend ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
 <br>
 
